@@ -9,4 +9,4 @@ ignoring "no-go" visual distractions like red circles or green squares. Based on
 [View Source Code](signal_and_swat.c)
 
 **Result**
-[View Result](Gam1-.Signal.Swat.RESULT.txt)
+[View Result](Game1-.Signal.Swat.RESULT.txt)
