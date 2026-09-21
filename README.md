@@ -8,7 +8,7 @@ ignoring "no-go" visual distractions like red circles or green squares. Based on
 **Code**:
 [View Source Code](signal_and_swat.c)
 
-**Code C File Link for Game 1**:
+**C File Code Downloadable Link for Game 1**:
 [signal_and_swat.c](https://github.com/user-attachments/files/32476925/signal_and_swat.c)
 
 **Result**
@@ -30,5 +30,11 @@ Trail Connector : This puzzle game challenges players to connect scattered nodes
 **Code**:
 [View Source Code](trail_connector.c)
 
+**C File Code Downloadable Link for Game 2**:
+[trail_connector.c](https://github.com/user-attachments/files/32477069/trail_connector.c)
+
 **Result**
 [View Result](Game2-.Trail.Connector.RESULT.txt)
+
+**Result Text File Downloadable Link for Game 2**:
+[Game2-.Trail.Connector.RESULT.txt](https://github.com/user-attachments/files/32477092/Game2-.Trail.Connector.RESULT.txt)
