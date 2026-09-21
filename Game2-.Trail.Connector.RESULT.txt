@@ -1,0 +1,21 @@
+RESULT ->
+TRAIL COMPLETE! YOU WIN!
+Final Score: 80
+Lives Remaining: 3
+TRAIL CONNECTOR
+1. Start Game
+2. Instructions
+3. Exit
+Enter your choice: 2
+HOW TO PLAY
+Connect the trail by entering the correct character in order.
+Correct answer: +10 points
+Wrong answer: Lose 1 life
+You have 3 lives.
+Complete the full sequence to win.
+TRAIL CONNECTOR
+1. Start Game
+2. Instructions
+3. Exit
+Enter your choice: 3
+Thank you for visiting!

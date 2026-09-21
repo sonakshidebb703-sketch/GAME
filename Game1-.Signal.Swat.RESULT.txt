@@ -1,0 +1,8 @@
+RESULT ->
+Correct responses : 6
+Wrong responses : 4
+Accuracy : 60.0%
+Performance: GOOD! Keep practicing.
+
+
+
