@@ -8,10 +8,13 @@ ignoring "no-go" visual distractions like red circles or green squares. Based on
 **Code**:
 [View Source Code](signal_and_swat.c)
 
+**Code C File Link for Game 1**:
+[signal_and_swat.c](https://github.com/user-attachments/files/32476925/signal_and_swat.c)
+
 **Result**
 [View Result](Game1-.Signal.Swat.RESULT.txt)
 
-**Result Text File Downloadable Link**:
+**Result Text File Downloadable Link for Game 1**:
 [Game1-.Signal.Swat.RESULT.txt](https://github.com/user-attachments/files/32476885/Game1-.Signal.Swat.RESULT.txt)
 
 
