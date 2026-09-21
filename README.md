@@ -11,6 +11,10 @@ ignoring "no-go" visual distractions like red circles or green squares. Based on
 **Result**
 [View Result](Game1-.Signal.Swat.RESULT.txt)
 
+**Result Text File Downloadable Link**:
+[Game1-.Signal.Swat.RESULT.txt](https://github.com/user-attachments/files/32476885/Game1-.Signal.Swat.RESULT.txt)
+
+
 
 
 
