@@ -10,3 +10,18 @@ ignoring "no-go" visual distractions like red circles or green squares. Based on
 
 **Result**
 [View Result](Game1-.Signal.Swat.RESULT.txt)
+
+
+
+
+
+**GAME 2- TRAIL CONNECTOR**:-
+
+**Description**: 
+Trail Connector : This puzzle game challenges players to connect scattered nodes in a strict alternating sequence under time constraints or changing rules. Adapted from the neuropsychological Trail Making Test (TMT Parts A & B), it measures executive function, task-switching ability, and motor speed by recording total completion time, path accuracy, and sequence errors.
+
+**Code**:
+[View Source Code](trail_connector.c)
+
+**Result**
+[View Result](Game2-.Trail.Connector.RESULT.txt)
